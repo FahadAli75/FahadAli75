@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠 Languages & Tools (One Line Style)
+### 🛠 Languages & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,vscode" />
 </p>
